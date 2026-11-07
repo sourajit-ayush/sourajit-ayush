@@ -44,7 +44,11 @@
 <a href="https://sourajit-kundu.vercel.app/#github">
   <img src="https://sourajit-kundu.vercel.app/readme/github.svg" alt="My GitHub contribution calendar for the last year, with total, current streak, longest streak and best day." width="100%">
 </a>
+<br><br>
 
+<a href="https://sourajit-kundu.vercel.app/#github">
+  <img src="https://sourajit-kundu.vercel.app/readme/skyline.svg" alt="My contribution skyline: the last year of GitHub contributions drawn as an isometric amber city, one building per day, taller on busier days." width="100%">
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourajit-ayush/sourajit-ayush/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourajit-ayush/sourajit-ayush/output/github-snake.svg">
